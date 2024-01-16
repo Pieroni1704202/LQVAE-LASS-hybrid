@@ -1,7 +1,5 @@
 # LQVAE-separation
-Code for "Unsupervised Source Separation via Bayesian inference in the latent domain"
-
-[Paper](https://arxiv.org/abs/2110.05313)
+Code for the paper ["Unsupervised Source Separation via Bayesian inference in the latent domain"](https://arxiv.org/abs/2110.05313)
 
 **Original repository can be found [here](https://github.com/michelemancusi/LQVAE-separation)**
 
