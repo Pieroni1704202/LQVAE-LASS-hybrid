@@ -61,26 +61,45 @@ To conclude, here are some samples of source separation for all methods:
 
 Original Bass:
 
-Original Drums
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/725ac4dc-a979-4144-a509-c37f98f35a0e
+
+
+Original Drums:
+
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/716ca0b9-0e99-45ee-9f67-48bedb3f769a
 
 Mixture:
 
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/0a74e208-2fa0-47d8-ab55-9cf27301cb28
 
 ---
 
 LQ-VAE Bass:
 
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/d3dcadb6-7779-44b6-81b7-16ba7ab26227
+
 LQ-VAE Drums:
+
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/75ee2653-18f8-4191-9c5a-4b3f9cf1fe8e
 
 ---
 
 LASS Bass:
 
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/d2ac9c75-8b46-4a02-bb55-5a9beecfd1a6
+
 LASS Drums:
+
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/bd9f7b8a-5e94-4f34-8101-5d79a5cfd744
 
 ---
 
 Hybrid Bass:
 
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/2316ec91-94b7-43da-ae83-f022c28a36fa
+
 Hybrid Drums:
+
+https://github.com/Pieroni1704202/LQVAE-LASS-hybrid/assets/50545485/2ac6bf9c-7b49-4242-949c-d6f9224df8cd
+
 
