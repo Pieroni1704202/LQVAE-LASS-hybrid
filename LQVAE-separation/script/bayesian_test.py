@@ -457,11 +457,11 @@ if __name__ == '__main__':
     avg_time_rej = 0.
     
     # wandb.init(
-    #     id = "lq_evaluation", 
+    #     id = "", 
     #     # resume="must",
     #     # set the wandb project where this run will be logged
-    #     project="DL-Project-LQVAE",
-    #     name="lq_evaluation",
+    #     project="",
+    #     name="",
     #     # track hyperparameters and run metadata
     #     config={
     #     "dataset": "Slakh2100-Drums&Bass",
