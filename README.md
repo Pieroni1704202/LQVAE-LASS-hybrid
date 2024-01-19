@@ -25,7 +25,7 @@ The data used to train the models is from [Synthesized Lakh (Slakh) Dataset](htt
 
 ## Experiments
 
-To conduct the comparison between models each model was tested on thirty chunks of three seconds, the chunks were extracted from the first thirty test mixtures. The produced samples are then compared to the original sources through Signal to Distortion Ratios (SDR). The following table reports the performance of all methods over the two instrument classes. The scores represent the average SDR of the best-generated samples compared to the original sources, calculated over the thirty chunks.
+To conduct the comparison between models each model was tested on 30 chunks of 3 seconds, the chunks were extracted from the first 30 test mixtures. The produced samples are then compared to the original sources through Signal to Distortion Ratios (SDR). The following table reports the performance of all methods over the two instrument classes. The scores represent the average SDR of the best-generated samples compared to the original sources, calculated over the thirty chunks.
 
 
 | Separation method | Bass | Drums | Avg. separation time (s) |
