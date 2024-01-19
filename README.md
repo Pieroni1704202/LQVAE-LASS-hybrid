@@ -41,7 +41,7 @@ To better illustrate the separation performance it's useful to see a comparison 
 <img src="./images/LASS_sdr_plot.svg" width='357'>
 <img src="./images/Hybrid_sdr_plot.svg" width='357'>
 
-During the training process, all meaningful metrics were logged on Weights and Biases. Here, a sequence of raw plots illustrates the cumulative loss values for the VQ-VAE and priors. The VQ-VAE exhibits promising results from the outset; however, the test loss for both the prior and VQ-VAE could potentially have been lower with additional epochs. Unfortunately, the limitations of Colab hours imposed a strict schedule, affecting the extent of training.
+During the training process, all meaningful metrics were logged on Weights and Biases. Here, a sequence of raw plots illustrates the cumulative loss values for the VQ-VAE and priors, the **x-axis indicates the number of epochs**. The VQ-VAE exhibits promising results from the outset; however, the test loss for both the prior and VQ-VAE could potentially have been lower with additional epochs. Unfortunately, the limitations of Colab hours imposed a strict schedule, affecting the extent of training.
 
 VQ-VAE loss for train and test:
 
